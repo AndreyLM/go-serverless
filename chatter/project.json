@@ -1,0 +1,5 @@
+{
+    "Name": "Chatter",
+    "Bucket": "lambda.lithium.com",
+    "Role": "chatter"
+}
